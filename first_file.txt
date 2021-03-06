@@ -1,11 +1,15 @@
 First file edit. Another edit here.
 
-Another edit down here. 
+Another change down/up here. 
 
-Now a change in a few different places. 
+Now an edit in a few different places. 
 
 An edit in first_file after checking out to main.
 
 I checked out to master, did "git push origin master", now I'm back main branch.
 
-Making several changes to files. 
+Making several changes to files.
+
+I have looked down the saddest city lane.
+I have passed by the watchman on his beat
+And dropped my eyes, unilling to explain.
