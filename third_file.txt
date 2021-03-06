@@ -1,0 +1,5 @@
+And an edit in the third file.
+
+Another change in third file before file is staged. 
+
+Now I'm making some more changes after initial commit. 
