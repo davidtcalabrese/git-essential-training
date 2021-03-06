@@ -1,0 +1,7 @@
+First file edit. Another edit here.
+
+Another edit down here. 
+
+Now a change in a few different places. 
+
+An edit in first_file after checking out to main.

@@ -1,0 +1,9 @@
+And an edit in the third file.
+
+Another change in third file before file is staged. 
+
+Now I'm making some more changes after initial commit. 
+
+And a change in the third file. 
+
+Another change in third file after checking out to main.
