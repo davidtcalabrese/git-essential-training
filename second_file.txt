@@ -1,3 +1,5 @@
 An edit in second_file.txt.
 
 Changes before file was added to staging area. 
+
+In second file. 
